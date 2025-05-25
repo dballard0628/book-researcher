@@ -94,7 +94,7 @@ book-researcher/
 ├── server/          # Express backend with GraphQL
 ├── README.md
 
-🔗 Live Demo
+🔗 Render Link
 https://book-researcher-u8fp.onrender.com/
 
 📄 License
